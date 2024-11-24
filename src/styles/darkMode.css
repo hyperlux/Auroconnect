@@ -1,0 +1,30 @@
+/* Search Bar */
+.search-input {
+  background-color: var(--dark-bg-secondary);
+  color: var(--dark-text);
+}
+
+/* Dropdowns */
+.dropdown-menu {
+  background-color: var(--dark-bg-secondary);
+  border: 1px solid var(--dark-border);
+}
+
+/* Modals */
+.modal-content {
+  background-color: var(--dark-bg-primary);
+  color: var(--dark-text);
+}
+
+/* Data Tables */
+.table-cell {
+  background-color: var(--dark-bg-secondary);
+  color: var(--dark-text);
+}
+
+/* Form Inputs */
+.form-input {
+  background-color: var(--dark-bg-secondary);
+  color: var(--dark-text);
+  border: 1px solid var(--dark-border);
+}
